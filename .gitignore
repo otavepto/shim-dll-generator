@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vs/
+*.sdf
+release/
+debug/
+shim_dll_source_generator/*.vcxproj.user
+shim_dll_source_generator/release/
+shim_dll_source_generator/debug/
